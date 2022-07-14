@@ -1,0 +1,206 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Server/BlazorEcommorce.Server.csproj": {}
+  },
+  "projects": {
+    "/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Client/BlazorEcommorce.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Client/BlazorEcommorce.Client.csproj",
+        "projectName": "BlazorEcommorce.Client",
+        "projectPath": "/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Client/BlazorEcommorce.Client.csproj",
+        "packagesPath": "/Users/elselif/.nuget/packages/",
+        "outputPath": "/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/elselif/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Shared/BlazorEcommorce.Shared.csproj": {
+                "projectPath": "/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Shared/BlazorEcommorce.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.6, 6.0.6]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Server/BlazorEcommorce.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Server/BlazorEcommorce.Server.csproj",
+        "projectName": "BlazorEcommorce.Server",
+        "projectPath": "/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Server/BlazorEcommorce.Server.csproj",
+        "packagesPath": "/Users/elselif/.nuget/packages/",
+        "outputPath": "/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Server/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/elselif/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Client/BlazorEcommorce.Client.csproj": {
+                "projectPath": "/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Client/BlazorEcommorce.Client.csproj"
+              },
+              "/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Shared/BlazorEcommorce.Shared.csproj": {
+                "projectPath": "/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Shared/BlazorEcommorce.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Shared/BlazorEcommorce.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Shared/BlazorEcommorce.Shared.csproj",
+        "projectName": "BlazorEcommorce.Shared",
+        "projectPath": "/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Shared/BlazorEcommorce.Shared.csproj",
+        "packagesPath": "/Users/elselif/.nuget/packages/",
+        "outputPath": "/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/elselif/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

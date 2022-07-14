@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{E3CC28E4-914F-4470-A378-6E0085B1BF71}|Default">
+  <MonoDevelop.Ide.ItemProperties.BlazorEcommorce.Server FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BlazorEcommorce.Client FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BlazorEcommorce.Shared FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
