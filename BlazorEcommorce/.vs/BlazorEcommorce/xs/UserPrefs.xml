@@ -1,6 +1,39 @@
 ﻿<Properties StartupConfiguration="{E3CC28E4-914F-4470-A378-6E0085B1BF71}|Default">
-  <MonoDevelop.Ide.ItemProperties.BlazorEcommorce.Server FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.BlazorEcommorce.Client FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.BlazorEcommorce.Shared FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BlazorEcommorce.Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorEcommorce/Server/Program.cs">
+    <Files>
+      <File FileName="BlazorEcommorce/Shared/WeatherForecast.cs" Line="14" Column="1" />
+      <File FileName="BlazorEcommorce/Shared/Product.cs" Line="22" Column="1" />
+      <File FileName="BlazorEcommorce/Client/Shared/ProductList.razor" Line="18" Column="31" />
+      <File FileName="BlazorEcommorce/Client/Pages/Index.razor" Line="6" Column="1" />
+      <File FileName="BlazorEcommorce/Server/Program.cs" Line="37" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlazorEcommorce" expanded="True">
+            <Node name="BlazorEcommorce.Client" expanded="True">
+              <Node name="Pages" expanded="True" />
+              <Node name="Shared" expanded="True" />
+            </Node>
+            <Node name="BlazorEcommorce.Server" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Pages" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="BlazorEcommorce.Shared" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

@@ -1,0 +1,12 @@
+/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Shared/bin/Debug/net6.0/BlazorEcommorce.Shared.deps.json
+/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Shared/bin/Debug/net6.0/BlazorEcommorce.Shared.dll
+/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Shared/bin/Debug/net6.0/BlazorEcommorce.Shared.pdb
+/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Shared/obj/Debug/net6.0/BlazorEcommorce.Shared.csproj.AssemblyReference.cache
+/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Shared/obj/Debug/net6.0/BlazorEcommorce.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Shared/obj/Debug/net6.0/BlazorEcommorce.Shared.AssemblyInfoInputs.cache
+/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Shared/obj/Debug/net6.0/BlazorEcommorce.Shared.AssemblyInfo.cs
+/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Shared/obj/Debug/net6.0/BlazorEcommorce.Shared.csproj.CoreCompileInputs.cache
+/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Shared/obj/Debug/net6.0/BlazorEcommorce.Shared.dll
+/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Shared/obj/Debug/net6.0/refint/BlazorEcommorce.Shared.dll
+/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Shared/obj/Debug/net6.0/BlazorEcommorce.Shared.pdb
+/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Shared/obj/Debug/net6.0/ref/BlazorEcommorce.Shared.dll
