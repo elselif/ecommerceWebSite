@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "MWiwET8JkZ6C/cjLH0KWTqt2UX9NjYm5kiUelXJpHKi8v5SVkEG2l1DjbXMmFuC4aw1ssVqs4iutlrc3NaYJqQ==",
+  "dgSpecHash": "SwH8PcCbcv/pftNLCpZ8cNmiY3eGqhg1sfRiGpQAq2QqfcgG6EpUKBLs7OG3W2d//I4UI3nycbRA6jqRIMKpqg==",
   "success": true,
   "projectFilePath": "/Users/elselif/Documents/GitHub/ASP.Net/ecommerceWebSite/BlazorEcommorce/BlazorEcommorce/Shared/BlazorEcommorce.Shared.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/elselif/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/elselif/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/elselif/.nuget/packages/swashbuckle.aspnetcore/6.3.2/swashbuckle.aspnetcore.6.3.2.nupkg.sha512",
+    "/Users/elselif/.nuget/packages/swashbuckle.aspnetcore.swagger/6.3.2/swashbuckle.aspnetcore.swagger.6.3.2.nupkg.sha512",
+    "/Users/elselif/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.3.2/swashbuckle.aspnetcore.swaggergen.6.3.2.nupkg.sha512",
+    "/Users/elselif/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.3.2/swashbuckle.aspnetcore.swaggerui.6.3.2.nupkg.sha512"
+  ],
   "logs": []
 }

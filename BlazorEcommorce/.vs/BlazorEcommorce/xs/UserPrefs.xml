@@ -1,14 +1,16 @@
 ﻿<Properties StartupConfiguration="{E3CC28E4-914F-4470-A378-6E0085B1BF71}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorEcommorce/Client/Shared/ProductList.razor.css">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorEcommorce/Client/Program.cs">
     <Files>
       <File FileName="BlazorEcommorce/Shared/WeatherForecast.cs" Line="14" Column="1" />
       <File FileName="BlazorEcommorce/Shared/Product.cs" Line="22" Column="1" />
-      <File FileName="BlazorEcommorce/Client/Shared/ProductList.razor" Line="23" Column="6" />
+      <File FileName="BlazorEcommorce/Client/Shared/ProductList.razor" Line="38" Column="2" />
+      <File FileName="BlazorEcommorce/Client/Pages/FetchData.razor" Line="43" Column="55" />
+      <File FileName="BlazorEcommorce/Server/Controllers/ProductController.cs" Line="38" Column="21" />
+      <File FileName="BlazorEcommorce/Client/Program.cs" Line="8" Column="1" />
       <File FileName="BlazorEcommorce/Client/Pages/Index.razor" Line="8" Column="1" />
-      <File FileName="BlazorEcommorce/Server/Program.cs" Line="27" Column="31" />
-      <File FileName="BlazorEcommorce/Client/Shared/ProductList.razor.css" Line="33" Column="1" />
       <File FileName="BlazorEcommorce/Client/wwwroot/css/bootstrap/bootstrap.min.css" Line="1" Column="1" />
+      <File FileName="BlazorEcommorce/Server/Controllers/WeatherForecastController.cs" Line="25" Column="13" />
+      <File FileName="BlazorEcommorce/Server/Program.cs" Line="31" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -24,9 +26,9 @@
                   <Node name="bootstrap" expanded="True" />
                 </Node>
               </Node>
+              <Node name="Program.cs" selected="True" />
             </Node>
             <Node name="BlazorEcommorce.Server" expanded="True">
-              <Node name="Controllers" expanded="True" />
               <Node name="Pages" expanded="True" />
             </Node>
             <Node name="BlazorEcommorce.Shared" expanded="True" />
@@ -38,10 +40,12 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.BlazorEcommorce.Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BlazorEcommorce.Client PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BlazorEcommorce.Server PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
