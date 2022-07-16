@@ -1,0 +1,32 @@
+.media-img[b-qx6rqvqbem] {
+    max-height: 200px;
+    max-width: 200px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    transition: transform .2s;
+}
+
+    .media-img:hover[b-qx6rqvqbem] {
+        transform: scale(1.1);
+    }
+
+.media-img-wrapper[b-qx6rqvqbem] {
+    width: 200px;
+    text-align: center;
+}
+
+.page-selection[b-qx6rqvqbem] {
+    margin-right: 15px;
+    margin-bottom: 30px;
+}
+
+@media (max-width: 1023.98px) {
+    .media[b-qx6rqvqbem] {
+        flex-direction: column;
+    }
+
+    .media-img-wrapper[b-qx6rqvqbem] {
+        width: 100%;
+        height: auto;
+    }
+}
